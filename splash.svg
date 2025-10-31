@@ -1,0 +1,7 @@
+<!-- Placeholder splash screen - replace with actual 1284x2778 PNG -->
+<svg width="1284" height="2778" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1284" height="2778" fill="#0B132B"/>
+  <circle cx="642" cy="1389" r="400" fill="#1CE5C8"/>
+  <text x="642" y="1520" font-family="Arial, sans-serif" font-size="180" font-weight="bold" text-anchor="middle" fill="#0B132B">Free Fruit</text>
+  <text x="642" y="1650" font-family="Arial, sans-serif" font-size="60" text-anchor="middle" fill="#8B9DC3">Sports Intelligence</text>
+</svg>
